@@ -2,7 +2,7 @@
 Polylang integration add-on for Conditional Blocks that adds language-based display conditions, allowing you to show or hide blocks based on the active Polylang language.
 
 
-##Installation
+## Installation
 
 	1.	Ensure the Conditional Blocks plugin is installed and activated (Free or Pro).
 	2.	Ensure the Polylang plugin is installed and activated (Free or Pro).
@@ -21,4 +21,4 @@ Polylang integration add-on for Conditional Blocks that adds language-based disp
 	•	Pro version
 	•	✅ WordPress
 	•	Compatible with the Block Editor (Gutenberg)
-	•	ℹ️ The plugin automatically detects the active Polylang language and works with both language slugs and Polylang’s internal language handling.#
+	•	ℹ️ The plugin automatically detects the active Polylang language and works with both language slugs and Polylang’s internal language handling.
